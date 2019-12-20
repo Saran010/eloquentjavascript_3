@@ -1,5 +1,5 @@
 console.log(countBs('gfhBgjhgBkj'));
-console.log(countChar('gfhBgjhgBkj', 'B'));
+console.log(countChar('gfhBgjhgBkjg', 'g'));
 
 function countBs(str, char) {
     const l = str.length;
